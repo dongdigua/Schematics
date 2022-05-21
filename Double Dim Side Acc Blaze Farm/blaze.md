@@ -1,2 +1,3 @@
 # Double Dimension Side Acceleration Blaze Farm
-now 12gt  
+- 12gt reset
+- 7gt into portal
